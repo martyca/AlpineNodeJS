@@ -2,9 +2,9 @@
 docker build of NodeJS for Alpine
 
 ## Versions
-Alpine 3.11.6
-NodeJS 12.15.0
-NPM    6.13.4
+- Alpine 3.11.6
+- NodeJS 12.15.0
+- NPM    6.13.4
 
 ## References
 ### Alpine
