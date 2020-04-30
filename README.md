@@ -1,10 +1,21 @@
 # AlpineNodeJS
 docker build of NodeJS for Alpine
 
-## Build Locally
-Run: 
-```
- docker build -t martyca/alpinenodejs:latest https://github.com/martyca/AlpineNodeJS.git
-```
-## Dockerhub image
-https://hub.docker.com/repository/docker/martyca/alpinenodejs
+## Versions
+Alpine 3.11.6
+NodeJS 12.15.0
+NPM    6.13.4
+
+## References
+### Alpine
+https://hub.docker.com/_/alpine
+### NodeJS
+https://nodejs.org
+### NPM
+https://www.npmjs.com
+
+## Instructions:
+### Pull
+`docker pull martyca/alpinenodejs`
+### Run
+`Docker run -it martyca/alpinenodejs sh`
