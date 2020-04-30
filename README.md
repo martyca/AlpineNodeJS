@@ -1,5 +1,5 @@
 # AlpineNodeJS
-docker build of NodeJS for Alpine
+Docker image containing NodeJS and NPM on Alpine.
 
 ## Versions
 - Alpine 3.11.6
